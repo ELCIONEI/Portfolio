@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Variáveis de ambiente e segredos
+.env
+*.key
+
+# Node / Web
+node_modules/
+
+# Sistema / IDEs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
