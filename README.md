@@ -15,3 +15,5 @@ Bem-vindo(a)! Este repositório reúne meus principais projetos práticos, siste
 
 ## Licença
 Este repositório está sob a licença [MIT](LICENSE).
+
+| **Sistema de Gestão Ministerial** | Aplicação web modular para gestão de grupos, lideranças, eventos, ofertas, controle de acesso (RBAC) e relatórios em Excel, migrada de MySQL para grafos. | Python, Flask, Neo4j, Tailwind CSS, Pandas | [Acessar Repositório](https://github.com/ELCIONEI/Gestao-Ministerial) |
